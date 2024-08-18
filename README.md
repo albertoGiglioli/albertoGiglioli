@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alberto Giglioli</h1>
-<h3 align="center">A fullstack frontend developer from Italy</h3>
+<h3 align="center">A fullstack developer from Italy</h3>
 
 - ✨ Creating bugs since **2016**
 - 🎓 I got my degree in computer science in the year .. 
